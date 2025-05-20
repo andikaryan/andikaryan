@@ -5,6 +5,7 @@
 </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andikaryan&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=andikaryan&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=andikaryan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
