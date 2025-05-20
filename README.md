@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=nafishandoko&no-bg=true&no-frame=true&theme=onestar&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+<img src="https://github-profile-trophy.vercel.app/?username=andikaryan&no-bg=true&no-frame=true&theme=onestar&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=andikaryan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
