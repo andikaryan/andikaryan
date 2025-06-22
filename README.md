@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Andika Ryan Nurshodiq 👋
+
+<p> <img src="https://komarev.com/ghpvc/?username=andikaryan" alt="andikaryan" /> </p>
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=andikaryan&no-bg=true&no-frame=true&theme=onestar&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
